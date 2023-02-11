@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/bin/Debug/net7.0/Update interfaces with default interface methods
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/bin/Debug/net7.0/Update interfaces with default interface methods.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/bin/Debug/net7.0/Update interfaces with default interface methods.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/bin/Debug/net7.0/Update interfaces with default interface methods.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/bin/Debug/net7.0/Update interfaces with default interface methods.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/refint/Update interfaces with default interface methods.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/Update interfaces with default interface methods.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Update interfaces with default interface methods/obj/Debug/net7.0/ref/Update interfaces with default interface methods.dll
