@@ -10,7 +10,7 @@ namespace customer_relationship {
         public IEnumerable<IOrder> PreviousOrders => allOrders;
 
         public DateTime DateJoined { get; }
-
+         
         public DateTime? LastOrder { get; private set; }
 
         public string Name { get; }

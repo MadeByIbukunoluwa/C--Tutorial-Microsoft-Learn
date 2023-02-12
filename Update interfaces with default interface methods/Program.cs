@@ -50,7 +50,7 @@ namespace customer_relationship
             }
             foreach (IOrder order in c.PreviousOrders)
             {
-                Console.WriteLine($"Order n {order.Purchased} for {order.Cost}");
+                Console.WriteLine($"Order on {order.Purchased} for {order.Cost}");
             }
 
             Console.WriteLine($"Current discount: {theCustomer.ComputeLoyaltyDiscount()}");
@@ -59,4 +59,4 @@ namespace customer_relationship
             Console.WriteLine($"Current discount: {theCustomer.ComputeLoyaltyDiscount()}");
         }
     }
-}
+} 

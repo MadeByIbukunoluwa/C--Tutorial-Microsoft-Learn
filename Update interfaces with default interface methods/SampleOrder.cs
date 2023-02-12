@@ -9,4 +9,4 @@ namespace customer_relationship
 
         public decimal Cost { get; }
     }
-}
+}  

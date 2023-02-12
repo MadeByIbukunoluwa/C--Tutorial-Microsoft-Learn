@@ -1,29 +1,18 @@
 ﻿<Properties StartupConfiguration="{09EE0EE5-43A0-4BC8-A725-158A82C0097B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleCustomer.cs">
+  <MonoDevelop.Ide.ItemProperties.Update_220interfaces_220with_220default_220interface_220methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleOrder.cs">
     <Files>
-      <File FileName="Program.cs" Line="11" Column="6" />
-      <File FileName="ICustomer.cs" Line="36" Column="1" />
-      <File FileName="IOrder.cs" Line="7" Column="2" />
-      <File FileName="SampleCustomer.cs" Line="4" Column="35" />
-      <File FileName="SampleOrder.cs" Line="10" Column="37" />
+      <File FileName="Program.cs" />
+      <File FileName="ICustomer.cs" />
+      <File FileName="IOrder.cs" />
+      <File FileName="SampleCustomer.cs" />
+      <File FileName="SampleOrder.cs" Line="12" Column="4" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Update interfaces with default interface methods" expanded="True">
-            <Node name="Update interfaces with default interface methods" expanded="True">
-              <Node name="SampleCustomer.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Update_220interfaces_220with_220default_220interface_220methods FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -24,7 +24,7 @@ namespace customer_relationship
         private static int orderCount = 10;
         private static decimal discountPercent = 0.10m;
 
-        //Version 1 
+        //Version 1  
         //public decimal ComputeloyaltyDiscount()
         //{
         //    DateTime TwoYearsAgo = DateTime.Now.AddYears(-2);
