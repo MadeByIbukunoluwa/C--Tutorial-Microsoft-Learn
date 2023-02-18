@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <!-- <None Remove="SurveyQuestion.cs," /> -->
+    <!-- <None Remove="SurveyQuestion.cs" /> -->
+  </ItemGroup>
 </Project>
