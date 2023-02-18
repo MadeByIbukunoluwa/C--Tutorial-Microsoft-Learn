@@ -54,7 +54,7 @@ namespace indicesandranges
 
             //This is the implicit way of creating a range 
             Range implicitRange = 3..^5;
-            // This is the explicit way of creting a range 
+            // This is the explicit way of creating a range 
             Range explicitRange = new (
                 start: new Index(value: 3, fromEnd: false),
                 end: new Index(value: 5, fromEnd: true));
