@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/bin/Debug/net7.0/Advanced-scenarios-for-string-interpolation
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/bin/Debug/net7.0/Advanced-scenarios-for-string-interpolation.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/bin/Debug/net7.0/Advanced-scenarios-for-string-interpolation.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/bin/Debug/net7.0/Advanced-scenarios-for-string-interpolation.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/bin/Debug/net7.0/Advanced-scenarios-for-string-interpolation.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/refint/Advanced-scenarios-for-string-interpolation.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/Advanced-scenarios-for-string-interpolation.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Advanced-scenarios-for-string-interpolation/obj/Debug/net7.0/ref/Advanced-scenarios-for-string-interpolation.dll
