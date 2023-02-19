@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/bin/Debug/net7.0/Basic-Console-Application
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/bin/Debug/net7.0/Basic-Console-Application.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/bin/Debug/net7.0/Basic-Console-Application.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/bin/Debug/net7.0/Basic-Console-Application.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/bin/Debug/net7.0/Basic-Console-Application.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/refint/Basic-Console-Application.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/Basic-Console-Application.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Basic-Console-Application/obj/Debug/net7.0/ref/Basic-Console-Application.dll
