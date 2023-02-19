@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/bin/Debug/net7.0/REST-Client
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/bin/Debug/net7.0/REST-Client.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/bin/Debug/net7.0/REST-Client.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/bin/Debug/net7.0/REST-Client.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/bin/Debug/net7.0/REST-Client.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/refint/REST-Client.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/REST-Client.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/REST-Client/obj/Debug/net7.0/ref/REST-Client.dll
