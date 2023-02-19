@@ -3,6 +3,7 @@ namespace TeleprompterConsole;
 
 internal class Program
 {
+    static string filepath = "/Users/ibukunoluwaakintobi/Documents/sampleQuotes.txt";
     static void Main(string[] args)
     {
         Console.WriteLine("Hello World!");
@@ -22,7 +23,7 @@ internal class Program
     static IEnumerable<string> ReadFrom(string file)
     {
         string? line;
-        using (var reader = File.OpenText("/Users/ibukunoluwaakintobi/Documents/sampleQuotes.txt"))
+        using (var reader = File.OpenText(filepath))
         {
             while((line = reader.ReadLine()) != null)
             //The object returned by the ReadFrom method contains the code to generate each item in the sequence
@@ -45,4 +46,8 @@ internal class Program
             }
         }
     }
+    //private static async Task ShowTeleprompter()
+    //{
+    //    var words = ReadFrom()
+    //}
 }
