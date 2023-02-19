@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/bin/Debug/net7.0/Working-with-LINQ
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/bin/Debug/net7.0/Working-with-LINQ.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/bin/Debug/net7.0/Working-with-LINQ.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/bin/Debug/net7.0/Working-with-LINQ.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/bin/Debug/net7.0/Working-with-LINQ.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/refint/Working-with-LINQ.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/Working-with-LINQ.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Working-with-LINQ/obj/Debug/net7.0/ref/Working-with-LINQ.dll
