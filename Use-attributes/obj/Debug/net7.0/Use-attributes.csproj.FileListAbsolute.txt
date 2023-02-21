@@ -1,0 +1,15 @@
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/bin/Debug/net7.0/Use-attributes
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/bin/Debug/net7.0/Use-attributes.deps.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/bin/Debug/net7.0/Use-attributes.runtimeconfig.json
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/bin/Debug/net7.0/Use-attributes.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/bin/Debug/net7.0/Use-attributes.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.csproj.AssemblyReference.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.AssemblyInfoInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.AssemblyInfo.cs
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.csproj.CoreCompileInputs.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/refint/Use-attributes.dll
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.pdb
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/Use-attributes.genruntimeconfig.cache
+/Users/ibukunoluwaakintobi/Desktop/C-sharp-Tutorial-Microsoft-Learn/Use-attributes/obj/Debug/net7.0/ref/Use-attributes.dll
