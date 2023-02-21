@@ -31,9 +31,10 @@ namespace LinqFaroShuffle
         return true;
     }
         // We can create an extension method, for this query to have the ability to log to a .txt file when we create a query .
+        // First run generated a really large .txt file and it had't even finished execution
         public static IEnumerable<T> LogQuery<T>(this IEnumerable<T> sequence, string tag)
         {
-            using (var writer = File.AppendText("Users/ibukunoluwaakintobi/Documents/log.txt"))
+            using (var writer = File.AppendText("/Users/ibukunoluwaakintobi/Documents/log.txt"))
             {
                 writer.WriteLine($"Executing Query {tag}");
             }

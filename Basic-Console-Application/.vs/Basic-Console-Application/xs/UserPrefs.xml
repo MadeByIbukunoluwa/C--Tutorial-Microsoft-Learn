@@ -5,16 +5,18 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TelePrompterConfig.cs">
     <Files>
-      <File FileName="Program.cs" Line="26" Column="34" />
-      <File FileName="TelePrompterConfig.cs" Line="18" Column="21" />
+      <File FileName="Program.cs" Line="27" Column="6" />
+      <File FileName="TelePrompterConfig.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Basic-Console-Application" expanded="True">
-            <Node name="Basic-Console-Application" expanded="True" />
+            <Node name="Basic-Console-Application" expanded="True">
+              <Node name="TelePrompterConfig.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
